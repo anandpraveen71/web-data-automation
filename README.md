@@ -51,7 +51,7 @@ web-data-automation/
 ### 1. Clone repository
 
 ```
-git clone https://github.com/yourusername/web-data-automation.git
+git clone https://github.com/anandpraveen71/web-data-automation.git
 cd web-data-automation
 ```
 
