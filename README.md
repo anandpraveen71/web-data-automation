@@ -43,7 +43,9 @@ web-data-automation/
 ├── requirements.txt
 ├── README.md
 ```
+## 📸 Screenshots
 
+![API Screenshot](web-data-automation-api.png)
 ---
 
 ## 🚀 How to Run
